@@ -33,7 +33,6 @@
 ### Association
 
 - has_many :users
-- belongs_to :user
 - has_many :messages
 
 ## messageテーブル
