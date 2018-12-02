@@ -64,7 +64,7 @@ Things you may want to cover:
 - belongs_to :user
 - has_many :messages
 
-## messageテーブル
+## message_テーブル
 
 |Column|Type|Options|
 |------|----|-------|
